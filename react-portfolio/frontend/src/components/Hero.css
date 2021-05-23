@@ -1,0 +1,17 @@
+ .HeroCont{
+    display: inline;
+}
+.NameandAll{
+    margin-left: -10%;
+    margin-top: 20%;
+    float: left;
+    width: 50%;
+}
+
+.DancePic{
+position: relative;
+right: -10%;
+float: right;
+width: 50%;
+} 
+
